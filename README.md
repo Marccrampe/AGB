@@ -1,4 +1,4 @@
-# 🌳 OpenAtlas – AGB Estimation from Canopy Height
+![image](https://github.com/user-attachments/assets/dfd56b71-20b5-4a17-8b25-090040701df4)# 🌳 OpenAtlas – AGB Estimation from Canopy Height
 
 As part of OpenAtlas's expansion into emissions and biomass monitoring, we’ve developed a new **Above Ground Biomass Index (AGB)** based on our existing **Global Canopy Height Model (GCHM)**. This repository contains two methods implemented in Google Colab notebooks, benchmarked on multiple AOIs.
 
@@ -79,13 +79,11 @@ Many competitors provide AGB maps but don’t compute canopy height — they oft
 ---
 
 
-## 📁 Files (to be added)
+## 📁 Files 
 
-- `method_1_collab.ipynb`: RESOLVE-based method
-- `method_2_collab.ipynb`: LC100 weighted mean method
-- `gchm_agb_utils.py`: Helper functions
-- `example_outputs/`: GeoTIFF and visual maps
-- `doc/`: Scientific references or report (optional)
+- `GCHM_AGB_RESOLV.ipynb`: RESOLVE-based method
+- `GCHM_AGB_LC100.ipynb`: LC100 weighted mean method
+
 
 ---
 
